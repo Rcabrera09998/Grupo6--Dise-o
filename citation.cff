@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Berrocal Montoya
+    given-names: Lupe
+    orcid: https://orcid.org/0000-0001-5091-3690
+title: "Hogares en los que cocinan con combustibles contaminantes"
+version: 0.1.0
+doi: 10.5281/zenodo.7030149
+date-released: 2019-04-11
+url: "https://doi.org/10.5281/zenodo.7030149"
